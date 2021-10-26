@@ -18,3 +18,4 @@
 
 #### 🌱 참고 저장소
 * KSS(Korean Sentence Splitter) : https://github.com/hyunwoongko/kss
+* KoNLPy(코엔엘파이) : https://github.com/konlpy/konlpy
