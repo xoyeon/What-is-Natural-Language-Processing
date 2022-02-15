@@ -1,5 +1,8 @@
 # 딥러닝을 이용한 자연어 처리 입문
 
+[![Github Badge](https://img.shields.io/badge/github-000000?style=flat-square&logo=github&link=https://github.com/ukairia777/tensorflow-nlp-tutorial)](https://github.com/ukairia777/tensorflow-nlp-tutorial)
+
+
 ![image](https://user-images.githubusercontent.com/85726134/135409782-5c91068e-9714-4fcc-8bd4-7d36b2ae0f1b.png)
 
 📚[위키독스](https://wikidocs.net/book/2155)
